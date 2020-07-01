@@ -1,4 +1,4 @@
-# 基于vuedraggable,拖拽生成的form表单生成器, 简单组件
+# 基于vue,Element-UI,vuedraggable 拖拽生成的form表单生成器, 简单组件
 
 # 表单控件
     - Checkbox 复选
