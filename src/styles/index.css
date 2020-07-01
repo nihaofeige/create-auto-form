@@ -1,0 +1,51 @@
+html{
+    width: 100%;
+}
+.posBorder{
+  border: 1px solid palegreen;
+  position: relative;
+  width: 80%;
+  padding: 10px 0;
+  margin-bottom: 10px;
+}
+.posClose{
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+.avatar-uploader .el-upload {
+  border: 1px dashed #d9d9d9;
+  border-radius: 6px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+  border-color: #409EFF;
+}
+.avatar-uploader .avatar-uploader-icon {
+  font-size: 28px;
+  color: #8c939d;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+}
+.avatar {
+  width: 80px;
+  height: 80px;
+}
+.el-form-item{
+  width: 400px;
+}
+.flex{
+  display: flex;
+  cursor: pointer;
+}
+.align_center{
+  align-items: center;
+  justify-content: center;
+}
+.rotateL{transform: rotate(-90deg);}
+.rotateR{transform: rotate(90deg);}
